@@ -1,2 +1,2 @@
 # BanExplorer
-### **Damage to your system**, do not use easily.
+### **_Damage to your system_**, do not use easily.
